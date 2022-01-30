@@ -4,7 +4,7 @@
 -                     - Full-stack development
 -                     - Rust lang
 -                     
-- 🌱 I’m currently learning javascript and will later hop on React framework for front-end and will also hop on Spring Framework for back-end
+- 🌱 I’m currently learning javascript and will later hop on React framework for front-end and Spring Framework for back-end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 -                   Mail: lagarctjhaba@gmail.com
