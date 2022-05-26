@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Setjhaba-SK
 - 👀 I’m interested in:
--                     - Data structure & algorithms
 -                     - Full-stack development
 -                     - Rust lang
 -                     
